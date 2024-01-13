@@ -17,7 +17,8 @@ let state = null //empty
 // boolean => true/false
 // null => stand alone value
 // undefined=> no value defined
-// symbol => uniqueness
+/* symbol =>The Symbol type is the set of all non-String values that may be used as the key of an Object property 
+Each possible Symbol value is unique and immutable.*/
 // object
 
 
